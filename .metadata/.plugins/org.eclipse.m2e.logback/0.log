@@ -1,0 +1,155 @@
+2024-07-25 13:23:46,842 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-25 13:25:53,906 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-25 13:28:30,878 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-25 13:28:55,255 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.synex:HotelMicroService:0.0.1-SNAPSHOT @ C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\pom.xml.
+2024-07-25 13:28:55,509 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.synex:TravelGig:0.0.1-SNAPSHOT @ C:\Users\tomyu\Documents\HotelMicroserviceProject\TravelGig\pom.xml.
+2024-07-25 13:28:56,630 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TravelGig/src/main/java
+2024-07-25 13:28:56,639 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TravelGig/src/main/resources
+2024-07-25 13:28:56,640 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TravelGig/src/main/resources
+2024-07-25 13:28:56,642 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TravelGig/src/test/java
+2024-07-25 13:28:56,644 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TravelGig/src/test/resources
+2024-07-25 13:28:57,028 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelMicroService/src/main/java
+2024-07-25 13:28:57,029 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelMicroService/src/main/resources
+2024-07-25 13:28:57,030 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelMicroService/src/main/resources
+2024-07-25 13:28:57,031 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelMicroService/src/test/java
+2024-07-25 13:28:57,031 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelMicroService/src/test/resources
+2024-07-25 13:28:57,192 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 3 sec
+2024-07-25 13:28:57,516 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-25 13:28:57,802 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.synex:HotelMicroService:0.0.1-SNAPSHOT @ C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\pom.xml.
+2024-07-25 13:28:58,199 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelMicroService/src/main/java
+2024-07-25 13:28:58,200 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelMicroService/src/main/resources
+2024-07-25 13:28:58,201 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelMicroService/src/main/resources
+2024-07-25 13:28:58,201 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelMicroService/src/test/java
+2024-07-25 13:28:58,202 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelMicroService/src/test/resources
+2024-07-25 13:28:58,546 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-25 13:29:00,849 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 13:29:00,912 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 13:29:00,918 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 13:29:01,804 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 13:29:01,836 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2024-07-25 13:29:01,845 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\TravelGig\src\test\resources
+2024-07-25 13:33:21,637 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-25 13:33:48,699 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.synex:BookingMicroService:0.0.1-SNAPSHOT @ C:\Users\tomyu\Documents\HotelMicroserviceProject\BookingMicroService\pom.xml.
+2024-07-25 13:33:49,574 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookingMicroService/src/main/java
+2024-07-25 13:33:49,581 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingMicroService/src/main/resources
+2024-07-25 13:33:49,582 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingMicroService/src/main/resources
+2024-07-25 13:33:49,584 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookingMicroService/src/test/java
+2024-07-25 13:33:49,586 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingMicroService/src/test/resources
+2024-07-25 13:33:49,797 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2024-07-25 13:33:51,263 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 13:33:51,316 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 13:33:51,321 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\BookingMicroService\src\test\resources
+2024-07-25 15:30:40,255 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:30:40,268 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:30:40,271 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:30:49,487 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:30:49,510 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:30:49,513 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:30:55,149 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:30:55,155 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:30:55,157 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:31:00,396 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:31:00,402 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:31:00,404 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:31:15,948 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:31:15,955 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:31:15,959 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:31:28,179 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:31:28,185 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:31:28,187 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:31:33,906 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:31:33,938 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:31:33,942 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:31:46,603 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:31:46,607 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:31:46,610 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:32:01,771 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:32:01,775 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:01,778 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:32:06,580 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:32:06,586 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:06,588 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:32:11,256 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:32:11,262 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:11,264 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:32:21,159 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:32:21,169 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:21,171 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:32:33,827 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:32:33,830 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:33,832 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:32:39,534 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:32:39,538 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:39,540 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:32:42,161 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:32:42,164 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:42,166 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:32:44,778 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:44,778 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:44,781 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:32:47,537 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:47,538 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:47,540 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:32:50,916 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:32:50,920 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:50,923 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:32:56,307 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:56,307 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:56,309 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:32:59,612 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:59,613 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:32:59,615 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:33:02,991 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:33:02,992 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:33:02,993 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:33:06,239 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:33:06,244 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:33:06,246 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:33:09,229 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:33:09,229 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:33:09,231 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:33:42,073 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:33:42,084 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2024-07-25 15:33:42,087 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\TravelGig\src\test\resources
+2024-07-25 15:34:12,839 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:34:12,842 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:34:12,844 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:41:29,551 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-25 15:45:22,739 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-25 15:47:40,354 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-25 15:47:41,043 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.synex:HotelMicroService:0.0.1-SNAPSHOT @ C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\pom.xml.
+2024-07-25 15:47:41,628 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelMicroService/src/main/java
+2024-07-25 15:47:41,633 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelMicroService/src/main/resources
+2024-07-25 15:47:41,633 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelMicroService/src/main/resources
+2024-07-25 15:47:41,635 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelMicroService/src/test/java
+2024-07-25 15:47:41,636 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelMicroService/src/test/resources
+2024-07-25 15:47:42,111 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-07-25 15:47:43,664 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:47:43,676 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:47:43,681 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\BookingMicroService\src\test\resources
+2024-07-25 15:47:44,240 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:47:44,256 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:47:44,260 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\HotelMicroService\src\test\resources
+2024-07-25 15:47:45,019 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:47:45,059 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2024-07-25 15:47:45,068 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\TravelGig\src\test\resources
+2024-07-25 15:48:06,929 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-25 15:48:07,215 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.synex:BookingMicroService:0.0.1-SNAPSHOT @ C:\Users\tomyu\Documents\HotelMicroserviceProject\BookingMicroService\pom.xml.
+2024-07-25 15:48:07,396 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.synex:TravelGig:0.0.1-SNAPSHOT @ C:\Users\tomyu\Documents\HotelMicroserviceProject\TravelGig\pom.xml.
+2024-07-25 15:48:07,661 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookingMicroService/src/main/java
+2024-07-25 15:48:07,661 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingMicroService/src/main/resources
+2024-07-25 15:48:07,662 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingMicroService/src/main/resources
+2024-07-25 15:48:07,662 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookingMicroService/src/test/java
+2024-07-25 15:48:07,662 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingMicroService/src/test/resources
+2024-07-25 15:48:07,785 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TravelGig/src/main/java
+2024-07-25 15:48:07,786 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TravelGig/src/main/resources
+2024-07-25 15:48:07,786 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TravelGig/src/main/resources
+2024-07-25 15:48:07,787 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TravelGig/src/test/java
+2024-07-25 15:48:07,787 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TravelGig/src/test/resources
+2024-07-25 15:48:07,993 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 2 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-25 15:48:08,321 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:48:08,367 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-07-25 15:48:08,370 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\BookingMicroService\src\test\resources
+2024-07-25 15:48:08,661 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-07-25 15:48:08,694 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2024-07-25 15:48:08,702 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\tomyu\Documents\HotelMicroserviceProject\TravelGig\src\test\resources
